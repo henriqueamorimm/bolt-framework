@@ -1,0 +1,3 @@
+CREATE HERE YOUR PAGES.
+
+-- page.html - The main page where the bolt.js will open first.
