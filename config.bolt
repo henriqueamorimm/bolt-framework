@@ -1,14 +1,14 @@
 
 ---------------------------------------------- PROJECT CONFIG ------------------------------------------------
-PROJECT-TITLE=>My Bolt Project
-PROJECT-DESCRIPTION=>An simple bolt project
+PROJECT-TITLE=>
+PROJECT-DESCRIPTION=>
 PROJECT-LOGO=>
 ----------------------------------------------- SERVER CONFIG -------------------------------------------------
 PORT=>
-COMPONENTS=>src/components/*
 ----------------------------------------------- STYLE CONFIG --------------------------------------------------
-BOOTSTRAP=>true
+BOOTSTRAP=>false
 SWEETALERT=>true
-HTML=>
+FOOTER=>true
+NAVBAR=>true
 
 
