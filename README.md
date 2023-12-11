@@ -59,8 +59,8 @@ To conclude the "config.bolt" file, here's the style configuration:
 
 Remember to set your main page as "page.html" in the "app" folder, all pages have to stay in that folder.
 
-You can route to other page using the JavaScript function "Route(pagename)" ex: 
-`Route(Dashboard)`: Will drop in Dashboard.html
+You can route to other page using the JavaScript function "Router(pagename)" ex: 
+`Router(Dashboard)`: Will drop in Dashboard.html
 With your Bolt options ready, let's try out the framework =)
 
 1. Use the command: `npm install fs http path`
