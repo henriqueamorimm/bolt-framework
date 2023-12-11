@@ -1,3 +1,7 @@
-CREATE HERE YOUR PAGES.
+CREATE HERE IN APP FOLDER YOUR PAGES.
 
 -- page.html - The main page where the bolt.js will open first.
+
+-- Remember:
+
+You dont have to use the HTML default doc. You can just insert your element´s.
