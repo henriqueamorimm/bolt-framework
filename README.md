@@ -64,7 +64,7 @@ You can route to other page using the JavaScript function "Router('pagename')" e
 `Router('Dashboard')`: Will drop in Dashboard.html, but it works like: localhost:0000/Dashboard
 With your Bolt options ready, let's try out the framework =)
 
-1. Use the command: `npm install fs`
+1. Use the command: `npm install`
 2. Try running the app: `npm run bolt`
 3. You'll see a message like this:
 <img src="https://media.discordapp.net/attachments/1099520313856905367/1181437655641247784/image.png?ex=65810e8f&is=656e998f&hm=89b6f4dc6b5fbd2a3389081fe44d5de0fbac3fbb7927be1bf9eed88fa5716ae2&=&format=webp&quality=lossless">
