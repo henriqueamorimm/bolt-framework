@@ -12,7 +12,7 @@ Before exploring the configuration file, ensure you have the necessary setup:
 To get started, clone the Bolt.js Framework repository:
 
 ```
-git clone https://github.com/henriqueamorimm/bolt-js-framework/
+git clone https://github.com/henriquechamon/bolt-js-framework/
 ```
 
 ### 2. Install Node.JS
